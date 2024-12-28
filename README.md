@@ -1,5 +1,8 @@
 # Google Search Query Automator
 
+![Google-Search-Query-Automator Jenderal92](https://github.com/user-attachments/assets/9de7263f-4949-45c1-9032-6585bf36db9f)
+
+
 **Google Search Query Automator** is an automation tool that leverages the **Google Custom Search API** to perform searches based on keywords and display the results. This tool allows users to automate the search process on Google, providing an easy way to search for information via API without having to access the web user interface directly. GQA can be used to retrieve search results in a structured format, showing titles, links, and snippets for each search result.
 
 ---
