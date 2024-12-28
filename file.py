@@ -69,8 +69,7 @@ def main():
 
     # Input search keywords and number of results
     query = raw_input("Enter your search query: ").strip()
-
-    # Ensure the number of results is within the valid range
+    
     while True:
         try:
             num_results = int(raw_input("Enter the number of results you want (1-10): "))
